@@ -2,6 +2,7 @@
 
 ### Summary: This analysis take a deep dive into bikesharing data from Citibike in New York City in order to determine the product viability of a bike sharing proggram in Des Moines, Iowa. The main objective of this analysis is to gain a clear understanding of the way in which this program functions in NYC as well as customer behavior. Understanding the foundational realities of this service in a successfull launch and city is key to determining whether or not such a business can exist and succeed elsewhere.
 
+[Link to dashboard](https://public.tableau.com/views/CitibikeNYCChallenge/CitibikeChallenge?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 # Results 
 
